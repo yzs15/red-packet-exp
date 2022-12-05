@@ -1,0 +1,12 @@
+[submodule "hongbao-log-analyzer"]
+	path = hongbao-log-analyzer
+	url = https://github.com/yzs15/hongbao-log-analyzer
+[submodule "hongbao-front-end"]
+	path = hongbao-front-end
+	url = https://github.com/yzs15/hongbao-exp-front-end
+[submodule "hongbao-message-server"]
+	path = hongbao-message-server
+	url = https://github.com/yzs15/hongbao-message-server
+[submodule "ISB-prototype"]
+	path = ISB-prototype
+	url = https://github.com/yzs15/ISB-prototype
