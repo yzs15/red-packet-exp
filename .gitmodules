@@ -7,6 +7,3 @@
 [submodule "hongbao-message-server"]
 	path = hongbao-message-server
 	url = https://github.com/yzs15/hongbao-message-server
-[submodule "ISB-prototype"]
-	path = ISB-prototype
-	url = https://github.com/yzs15/ISB-prototype
