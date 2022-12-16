@@ -4,6 +4,6 @@
 
 日志分析代码：hongbao-log-analyzer
 
-信息高铁原型：ISB-prototype
+信息高铁原型：ISB
 
 红包应用服务：hongbao-message-server
